@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33f627cb-bd63-4475-9364-38a31e4d9f1d" name="Default Changelist" comment="" />
+    <list default="true" id="33f627cb-bd63-4475-9364-38a31e4d9f1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/laralearn.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laralearn.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +17,17 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="laralearn.test" id="89201414-a24a-4154-990e-b1ee787b434c" name="nginx" />
+    </servers>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -101,26 +117,44 @@
       <path value="$PROJECT_DIR$/vendor/opis/closure" />
       <path value="$PROJECT_DIR$/vendor/league/commonmark" />
       <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
     </include_path>
   </component>
   <component name="ProjectId" id="1Y2QYsHEEJbUFDzXWpM5UwHdu7l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Web Page.nginx">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
+    <configuration name="nginx" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="nginx">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Web Page.nginx" />
+      <item itemvalue="PHPUnit.phpunit.xml" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -133,7 +167,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582138259927</updated>
       <workItem from="1582138264995" duration="146000" />
-      <workItem from="1582138423970" duration="25000" />
+      <workItem from="1582138423970" duration="290000" />
+      <workItem from="1582138732306" duration="503000" />
     </task>
     <servers />
   </component>
@@ -141,13 +176,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="449" y="160" key="SettingsEditor" timestamp="1582138448328">
+    <state x="543" y="183" width="824" height="684" key="#Servers" timestamp="1582139208651">
       <screen x="37" y="27" width="1883" height="1053" />
     </state>
-    <state x="449" y="160" key="SettingsEditor/37.27.1883.1053@37.27.1883.1053" timestamp="1582138448328" />
-    <state x="634" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582138424425">
+    <state x="543" y="183" width="824" height="684" key="#Servers/37.27.1883.1053@37.27.1883.1053" timestamp="1582139208651" />
+    <state x="418" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582139213134">
       <screen x="37" y="27" width="1883" height="1053" />
     </state>
-    <state x="634" y="380" key="com.intellij.ide.util.TipDialog/37.27.1883.1053@37.27.1883.1053" timestamp="1582138424425" />
+    <state x="418" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/37.27.1883.1053@37.27.1883.1053" timestamp="1582139213134" />
+    <state x="449" y="160" key="SettingsEditor" timestamp="1582139080126">
+      <screen x="37" y="27" width="1883" height="1053" />
+    </state>
+    <state x="449" y="160" key="SettingsEditor/37.27.1883.1053@37.27.1883.1053" timestamp="1582139080126" />
+    <state x="634" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582138733310">
+      <screen x="37" y="27" width="1883" height="1053" />
+    </state>
+    <state x="634" y="380" key="com.intellij.ide.util.TipDialog/37.27.1883.1053@37.27.1883.1053" timestamp="1582138733310" />
   </component>
 </project>
